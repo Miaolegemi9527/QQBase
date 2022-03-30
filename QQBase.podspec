@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QQBase'
-  s.version          = '0.1.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of QQBase.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Mr.Q/QQBase'
+  s.homepage         = 'https://github.com/Miaolegemi9527/QQBase'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mr.Q' => '2806671013@qq.com' }
